@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-14 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:14
+msgid "Seleccione una operación con cadenas:"
+msgstr ""
+
+#: main.py:15
+msgid "Concatenar dos cadenas"
+msgstr ""
+
+#: main.py:16
+msgid "Cambiar a mayúsculas"
+msgstr ""
+
+#: main.py:17
+msgid "Cambiar a minúsculas"
+msgstr ""
+
+#: main.py:18
+msgid "Contar caracteres"
+msgstr ""
+
+#: main.py:19
+msgid "Buscar palabra o carácter"
+msgstr ""
+
+#: main.py:20
+msgid "Reemplazar palabra o carácter"
+msgstr ""
+
+#: main.py:21
+msgid "Dividir la cadena"
+msgstr ""
+
+#: main.py:22
+msgid "Salir"
+msgstr ""
+
+#: main.py:29
+msgid "Seleccione una opción: "
+msgstr ""
+
+#: main.py:32
+msgid "Ingrese la primera cadena: "
+msgstr ""
+
+#: main.py:33
+msgid "Ingrese la segunda cadena: "
+msgstr ""
+
+#: main.py:34 main.py:38 main.py:42 main.py:57 main.py:64
+msgid "Resultado:"
+msgstr ""
+
+#: main.py:37 main.py:41 main.py:45 main.py:49 main.py:54 main.py:60
+msgid "Ingrese la cadena: "
+msgstr ""
+
+#: main.py:46
+msgid "Número de caracteres:"
+msgstr ""
+
+#: main.py:50
+msgid "Ingrese la palabra o carácter a buscar: "
+msgstr ""
+
+#: main.py:55
+msgid "Ingrese la palabra o carácter a reemplazar: "
+msgstr ""
+
+#: main.py:56
+msgid "Ingrese el nuevo texto: "
+msgstr ""
+
+#: main.py:61
+msgid "Ingrese el delimitador (dejar en blanco para espacio): "
+msgstr ""
+
+#: main.py:67
+msgid "Saliendo del programa..."
+msgstr ""
+
+#: main.py:70
+msgid "Opción no válida, intente nuevamente."
+msgstr ""
+
+#: operations.py:26
+#, python-brace-format
+msgid "'{palabra}' se encuentra en la posición {pos}"
+msgstr ""
+
+#: operations.py:28
+#, python-brace-format
+msgid "'{palabra}' no se encuentra en la cadena."
+msgstr ""

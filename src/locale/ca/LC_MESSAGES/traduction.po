@@ -1,0 +1,88 @@
+# Catalan translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#  <ibra@pc.>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-14 15:50+0100\n"
+"PO-Revision-Date: 2024-11-14 15:52+0100\n"
+"Last-Translator:  <ibra@pc.>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:15
+msgid "Seleccione una operación con cadenas:"
+msgstr "Seleccioneu una operació amb cadenes:"
+
+#: main.py:16
+msgid "Concatenar dos cadenas"
+msgstr "Concatena dues cadenes"
+
+#: main.py:17
+msgid "Cambiar a mayúsculas"
+msgstr "Canvia a majúscules"
+
+#: main.py:18
+msgid "Cambiar a minúsculas"
+msgstr "Canvia a minúscules"
+
+#: main.py:19
+msgid "Contar caracteres"
+msgstr "Compta caràcters"
+
+#: main.py:20
+msgid "Buscar palabra o carácter"
+msgstr "Cerca paraula o caràcter"
+
+#: main.py:21
+msgid "Reemplazar palabra o carácter"
+msgstr "Reemplaça paraula o caràcter"
+
+#: main.py:22
+msgid "Dividir la cadena"
+msgstr "Divideix la cadena"
+
+#: main.py:29
+msgid "Seleccione una opción: "
+msgstr "Seleccioneu una opció: "
+
+#: main.py:32
+msgid "Ingrese la primera cadena: "
+msgstr "Introduïu la primera cadena: "
+
+#: main.py:33
+msgid "Ingrese la segunda cadena: "
+msgstr "Introduïu la segona cadena: "
+
+#: main.py:34 main.py:38 main.py:42 main.py:57 main.py:64
+msgid "Resultado:"
+msgstr "Resultat:"
+
+#: main.py:46
+msgid "Número de caracteres:"
+msgstr "Nombre de caràcters:"
+
+#: main.py:50
+msgid "Ingrese la palabra o carácter a buscar: "
+msgstr "Introduïu la paraula o el caràcter a cercar: "
+
+#: main.py:55
+msgid "Ingrese la palabra o carácter a reemplazar: "
+msgstr "Introduïu la paraula o el caràcter a substituir: "
+
+#: operations.py:26
+#, python-brace-format
+msgid "'{palabra}' se encuentra en la posición {pos}"
+msgstr "'{palabra}' es troba a la posició {pos}"
+
+#: operations.py:28
+#, python-brace-format
+msgid "'{palabra}' no se encuentra en la cadena."
+msgstr "'{palabra}' no es troba en la cadena."
+
